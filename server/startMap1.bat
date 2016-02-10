@@ -1,0 +1,1 @@
+start FlowsGameServer-v1.0.jar --config=gameMap1.conf
